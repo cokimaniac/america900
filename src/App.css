@@ -1,0 +1,17 @@
+.App {
+  display: flex;
+}
+
+.result-container,
+.preview-container,
+.form-container {
+  background-color: rgb(25, 35, 82);
+  margin: 15px;
+  border-radius: 20px;
+}
+
+.section-title {
+  color: #fff;
+  font-weight: bold;
+  text-shadow: 1px 1px 3px black;
+}
