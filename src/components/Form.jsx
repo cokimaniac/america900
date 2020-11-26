@@ -6,7 +6,7 @@ function Form(props) {
   };
   return (
     <div className="form-container" style={style}>
-      <h3 className="section-title">Formulario Noticia</h3>
+      <h3 className="section-title">Formulario Noticias</h3>
       <form id="Form">
         <div className="form-row">
           <div className="form-group col-lg">
